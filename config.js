@@ -1,5 +1,5 @@
 
-const firebaseConfig = {
+export const firebaseConfig = {
   apiKey: "AIzaSyCosm7Uk4ko4S2-kkbrH5WsKk__n7zzv-Y",
   authDomain: "app-de-stories.firebaseapp.com",
   databaseURL: "https://app-de-stories-default-rtdb.firebaseio.com",
